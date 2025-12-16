@@ -60,7 +60,7 @@ export default function F1LandingPage() {
             { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1765895049474-j812z0kx.jpg", imageAlt: "F1 cockpit performance" },
             { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1765895050975-lwvu8bki.jpg", imageAlt: "F1 speed motion" },
             { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1765895052237-fospvmkm.jpg", imageAlt: "F1 aerodynamic" }
-          ]
+          ]}
           ariaLabel="F1 presentation hero section"
         />
       </div>
