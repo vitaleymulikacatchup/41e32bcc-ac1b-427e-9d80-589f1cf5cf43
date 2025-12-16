@@ -91,28 +91,28 @@ export default function F1LandingPage() {
           tagIcon={Rocket}
           features={[
             {
-              id: "1",
+              id: 1,
               title: "Concept Design",
               description: "Initial design phase where our top engineers conceptualize the next generation of performance vehicles with cutting-edge aerodynamics and power delivery systems.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1765895060505-qkgas718.jpg",
               imageAlt: "Concept design phase"
             },
             {
-              id: "2",
+              id: 2,
               title: "Engineering Simulation",
               description: "Advanced computer modeling and CFD analysis to optimize performance, durability, and efficiency before any physical prototype is built.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1765895061923-41adwakl.jpg",
               imageAlt: "Engineering simulation"
             },
             {
-              id: "3",
+              id: 3,
               title: "Prototype Testing",
               description: "Rigorous testing cycles including track validation, performance metrics verification, and real-world condition evaluation to ensure reliability.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1765895063134-w8ztih7z.jpg",
               imageAlt: "Prototype testing"
             },
             {
-              id: "4",
+              id: 4,
               title: "Production Excellence",
               description: "Final assembly with precision manufacturing and quality control protocols ensuring every vehicle meets our championship-winning standards.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1765895064265-2hg3j1im.jpg",
